@@ -50,5 +50,8 @@ The dataset that has been used in this research has been taken from Kaggle, titl
 The field of natural language processing (NLP) is currently dominated by the Transformer architecture, which is evident by our research via implementing the BERT model and comparing it with the other Supervised ML techniques. This trend is expected to continue for several years. As demonstrated in this study, we've showcased the effectiveness of this approach. With a relatively short training time, we were able to achieve excellent model performance via the BERT pre-trained language model. In the realm of humour detection, we customized the BERT model and fine-tuned it for our specific task, which, in this instance, involves classifying text as either a joke or not.
 
 ## FILE DESCRIPTIONS:
-
-
+1. 22122104_22122109_CAC2_Report.pdf: Full Study Report
+2. JokeDetectionDataset_classified.csv: CSV file of the dataset used in the study
+3. NLP_CAC2Flowchart.jpg: Study Design Flowchart  
+4. NLP_CAC2_MiniProject_XLNetImplementation.ipynb: Python notebook containing the XLNet implementation
+5.   
